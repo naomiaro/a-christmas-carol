@@ -34,6 +34,9 @@ https://blog.accusonus.com/voice-changer/siri-voice-generator/
 
 https://ttsmp3.com/text-to-speech/British%20English/
 
+https://play.ht/text-to-speech-voices/british-english/
+
+
 
 | Character | Voice |
 | --- | --- |
@@ -41,7 +44,7 @@ https://ttsmp3.com/text-to-speech/British%20English/
 | Fred (Scrooge's Nephew) | Brian  |
 | Narrator | Daniel |
 | Scrooge | Oliver - Speaking rate 25% below normal |
-| Gentleman #1 (donations) | |
+| Gentleman #1 (donations) | James |
 
 
 **Stave 2**
