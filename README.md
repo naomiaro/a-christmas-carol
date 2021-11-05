@@ -28,12 +28,15 @@ file '4.wav'
 
 **Stave 1**
 
+https://github.com/ExistentialAudio/BlackHole
+https://ttsmp3.com/text-to-speech/British%20English/
+
 | Character | Voice |
 | --- | --- |
-| Bob Cratchet (Clerk) | |
-| Fred (Scrooge's Nephew) | |
+| Bob Cratchet (Clerk) | Siri Male - normal |
+| Fred (Scrooge's Nephew) | Brian  |
 | Narrator | Daniel |
-| Scrooge | |
+| Scrooge | Oliver - Speaking rate 25% below normal |
 | Gentleman #1 (donations) | |
 
 
