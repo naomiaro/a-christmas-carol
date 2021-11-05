@@ -47,3 +47,8 @@ https://ttsmp3.com/text-to-speech/British%20English/
 **Stave 2**
 Marley - Bad News
 
+## Audiograms
+
+https://onlineimagetools.com/pixelate-image
+https://github.com/naomiaro/audiogram
+
