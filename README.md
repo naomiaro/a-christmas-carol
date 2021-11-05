@@ -29,7 +29,11 @@ file '4.wav'
 **Stave 1**
 
 https://github.com/ExistentialAudio/BlackHole
+
+https://blog.accusonus.com/voice-changer/siri-voice-generator/
+
 https://ttsmp3.com/text-to-speech/British%20English/
+
 
 | Character | Voice |
 | --- | --- |
