@@ -23,11 +23,15 @@ file '4.wav'
 ## Cast
 
 **Stave 1**
-Bob Cratchet (Clerk)
-Fred (Scrooge's Nephew)
-Narrator - Daniel
-Scrooge
-Gentleman #1 (donations)
+
+| Character | Voice |
+| --- | --- |
+| Bob Cratchet (Clerk) | |
+| Fred (Scrooge's Nephew) | |
+| Narrator | Daniel |
+| Scrooge | |
+| Gentleman #1 (donations) | |
+
 
 **Stave 2**
 Marley - Bad News
