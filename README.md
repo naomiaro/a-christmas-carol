@@ -41,7 +41,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Character | Voice |
 | --- | --- |
 | Bob Cratchet (Clerk) | Siri Male - normal |
-| Fred (Scrooge's Nephew) | Brian  |
+| Fred (Scrooge's Nephew) | Harry  |
 | Narrator | Daniel |
 | Scrooge | Oliver - Speaking rate 25% below normal |
 | Gentleman #1 (donations) | James |
