@@ -11,13 +11,13 @@ https://www.readbeyond.it/aeneas/docs/textfile.html#aeneas.textfile.TextFileForm
 
 ## Concatenating audio files.
 ```
-ffmpeg -f concat -i mylist.txt -c copy output.wav
+ffmpeg -f concat -i playlist.txt -c copy output.wav
 ```
 
 File :
 
 ```
-#mylist.txt
+#playlist.txt
 file '1.wav'
 file '2.wav'
 file '3.wav'
@@ -40,11 +40,11 @@ https://play.ht/text-to-speech-voices/british-english/
 
 | Character | Voice |
 | --- | --- |
-| Bob Cratchet (Clerk) | Brian |
+| Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Fred (Scrooge's Nephew) | Siri Male - normal  |
 | Narrator | Daniel |
-| Scrooge | Oliver - Speaking rate 25% below normal |
-| Gentleman #1 (donations) | James |
+| Scrooge | Oliver |
+| Gentleman #1 (donations) | play.ht - James |
 
 
 **Stave 2**
@@ -54,4 +54,10 @@ Marley - Bad News
 
 https://onlineimagetools.com/pixelate-image
 https://github.com/naomiaro/audiogram
+
+## Other links
+
+https://www.youtube.com/watch?v=2qauMSeqWpU
+
+https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
 
