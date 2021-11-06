@@ -40,11 +40,11 @@ https://play.ht/text-to-speech-voices/british-english/
 
 | Character | Voice |
 | --- | --- |
-| Bob Cratchet (Clerk) | Brian |
+| Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Fred (Scrooge's Nephew) | Siri Male - normal  |
 | Narrator | Daniel |
-| Scrooge | Oliver - Speaking rate 25% below normal |
-| Gentleman #1 (donations) | James |
+| Scrooge | Oliver |
+| Gentleman #1 (donations) | play.ht - James |
 
 
 **Stave 2**
