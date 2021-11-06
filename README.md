@@ -34,14 +34,17 @@ https://blog.accusonus.com/voice-changer/siri-voice-generator/
 
 https://ttsmp3.com/text-to-speech/British%20English/
 
+https://play.ht/text-to-speech-voices/british-english/
+
+
 
 | Character | Voice |
 | --- | --- |
-| Bob Cratchet (Clerk) | Siri Male - normal |
-| Fred (Scrooge's Nephew) | Brian  |
+| Bob Cratchet (Clerk) | Brian |
+| Fred (Scrooge's Nephew) | Siri Male - normal  |
 | Narrator | Daniel |
 | Scrooge | Oliver - Speaking rate 25% below normal |
-| Gentleman #1 (donations) | |
+| Gentleman #1 (donations) | James |
 
 
 **Stave 2**
