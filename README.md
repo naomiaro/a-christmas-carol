@@ -11,13 +11,13 @@ https://www.readbeyond.it/aeneas/docs/textfile.html#aeneas.textfile.TextFileForm
 
 ## Concatenating audio files.
 ```
-ffmpeg -f concat -i mylist.txt -c copy output.wav
+ffmpeg -f concat -i playlist.txt -c copy output.wav
 ```
 
 File :
 
 ```
-#mylist.txt
+#playlist.txt
 file '1.wav'
 file '2.wav'
 file '3.wav'
