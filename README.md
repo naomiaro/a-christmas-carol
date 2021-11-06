@@ -58,3 +58,6 @@ https://github.com/naomiaro/audiogram
 ## Other links
 
 https://www.youtube.com/watch?v=2qauMSeqWpU
+
+https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
+
