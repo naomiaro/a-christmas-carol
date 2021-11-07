@@ -69,7 +69,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | --- | --- |
 | Narrator | Daniel |
 | Scrooge | Oliver |
-| Christmas Present |  |
+| Christmas Present | play.ht - Ryan |
 | Mrs. Cratchit |  |
 | Cratchit girl #1 | ttsmp3.com - Emma |
 | 2 young Cratchit girls | Acapela Box - Rosie |
@@ -92,5 +92,7 @@ https://www.youtube.com/watch?v=2qauMSeqWpU
 https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
 
 https://www.acapela-group.com/voices/children-voices/
+
+https://www.youtube.com/watch?v=hUkDY3ipHw0
 
 
