@@ -63,6 +63,23 @@ https://play.ht/text-to-speech-voices/british-english/
 | Christmas Past |  |
 | Belle |  |
 
+**Stave 4**
+
+| Character | Voice |
+| --- | --- |
+| Narrator | Daniel |
+| Scrooge | Oliver |
+| Christmas Present |  |
+| Mrs. Cratchit |  |
+| Cratchit girl #1 |  |
+| 2 young Cratchit girls |  |
+| Martha Cratchit |  |
+| Bob Cratchet (Clerk) | ttsmp3.com - Brian |
+| Tiny Tim | |
+| Fred (Scrooge's Nephew) | Siri Male - normal  |
+| Scrooge's niece | |
+| Plump sister | |
+
 ## Audiograms
 
 https://onlineimagetools.com/pixelate-image
