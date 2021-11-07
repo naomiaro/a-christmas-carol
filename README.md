@@ -26,8 +26,6 @@ file '4.wav'
 
 ## Cast
 
-**Stave 1**
-
 https://github.com/ExistentialAudio/BlackHole
 
 https://blog.accusonus.com/voice-changer/siri-voice-generator/
@@ -36,7 +34,7 @@ https://ttsmp3.com/text-to-speech/British%20English/
 
 https://play.ht/text-to-speech-voices/british-english/
 
-
+**Stave 1**
 
 | Character | Voice |
 | --- | --- |
@@ -48,7 +46,12 @@ https://play.ht/text-to-speech-voices/british-english/
 
 
 **Stave 2**
-Marley - Bad News
+
+| Character | Voice |
+| --- | --- |
+| Marley | Bad News  |
+| Narrator | Daniel |
+| Scrooge | Oliver |
 
 ## Audiograms
 
