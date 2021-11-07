@@ -75,7 +75,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | 2 young Cratchit girls |  |
 | Martha Cratchit | play.ht - Isla |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
-| Tiny Tim | |
+| Tiny Tim | play.ht - Anna |
 | Fred (Scrooge's Nephew) | Siri Male - normal  |
 | Scrooge's niece | |
 | Plump sister | |
