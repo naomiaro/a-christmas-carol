@@ -71,7 +71,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Scrooge | Oliver |
 | Christmas Present |  |
 | Mrs. Cratchit |  |
-| Cratchit girl #1 |  |
+| Cratchit girl #1 | ttsmp3.com - Emma |
 | 2 young Cratchit girls |  |
 | Martha Cratchit | play.ht - Isla |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
@@ -90,4 +90,7 @@ https://github.com/naomiaro/audiogram
 https://www.youtube.com/watch?v=2qauMSeqWpU
 
 https://www.theguardian.com/technology/2015/aug/12/siri-real-voices-apple-ios-assistant-jon-briggs-susan-bennett-karen-jacobsen
+
+https://www.acapela-group.com/voices/children-voices/
+
 
