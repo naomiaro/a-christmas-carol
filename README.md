@@ -61,7 +61,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Narrator | Daniel |
 | Scrooge | Oliver |
 | Christmas Past | play.ht - Harry |
-| Belle |  |
+| Belle | play.ht - Sonia |
 
 **Stave 4**
 
