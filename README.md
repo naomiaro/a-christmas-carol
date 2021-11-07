@@ -78,7 +78,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Tiny Tim | play.ht - Anna |
 | Fred (Scrooge's Nephew) | Siri Male - normal  |
 | Scrooge's niece | |
-| Plump sister | |
+| Plump sister | play.ht - Libby |
 
 ## Audiograms
 
