@@ -57,10 +57,10 @@ https://play.ht/text-to-speech-voices/british-english/
 
 | Character | Voice |
 | --- | --- |
-| Fezziwig | play.ht - Charlie  |
+| Fezziwig | play.ht - Charlie |
 | Narrator | Daniel |
 | Scrooge | Oliver |
-| Christmas Past |  |
+| Christmas Past | play.ht - Harry |
 | Belle |  |
 
 **Stave 4**
