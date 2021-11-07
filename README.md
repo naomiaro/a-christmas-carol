@@ -72,7 +72,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Christmas Present |  |
 | Mrs. Cratchit |  |
 | Cratchit girl #1 | ttsmp3.com - Emma |
-| 2 young Cratchit girls |  |
+| 2 young Cratchit girls | Acapela Box - Rosie |
 | Martha Cratchit | play.ht - Isla |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Tiny Tim | play.ht - Anna |
