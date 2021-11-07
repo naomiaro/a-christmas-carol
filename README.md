@@ -71,7 +71,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Scrooge | Oliver |
 | Christmas Present |  |
 | Mrs. Cratchit |  |
-| Cratchit girl #1 |  |
+| Cratchit girl #1 | ttsmp3.com - Emma |
 | 2 young Cratchit girls |  |
 | Martha Cratchit | play.ht - Isla |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
