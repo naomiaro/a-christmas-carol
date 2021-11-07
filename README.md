@@ -53,6 +53,16 @@ https://play.ht/text-to-speech-voices/british-english/
 | Narrator | Daniel |
 | Scrooge | Oliver |
 
+**Stave 3**
+
+| Character | Voice |
+| --- | --- |
+| Fezziwig | play.ht - Charlie  |
+| Narrator | Daniel |
+| Scrooge | Oliver |
+| Christmas Past |  |
+| Belle |  |
+
 ## Audiograms
 
 https://onlineimagetools.com/pixelate-image
