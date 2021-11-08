@@ -77,7 +77,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Tiny Tim | play.ht - Anna |
 | Fred (Scrooge's Nephew) | Siri Male - normal  |
-| Scrooge's niece | |
+| Scrooge's niece | Kate |
 | Plump sister | play.ht - Libby |
 
 ## Audiograms
