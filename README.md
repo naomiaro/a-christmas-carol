@@ -98,7 +98,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Boy | Acapela Box - Harry |
 | 3-4 fellows |  |
-| Fred's Housekeeper? |  |
+| Girl | play.ht - Hannah |
 | Fred (Scrooge's Nephew) | Siri Male - UK |
 
 
