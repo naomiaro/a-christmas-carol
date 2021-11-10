@@ -87,8 +87,8 @@ https://play.ht/text-to-speech-voices/british-english/
 | Narrator | Daniel |
 | Scrooge | Oliver |
 | Man #1 | play.ht - George |
-| Man #2 |  |
-| Man #3 |  |
+| Man #2 | play.ht - Thomas |
+| Man #3 | play.ht - Brian |
 | Woman #1 |  |
 | Joe |  |
 | Mrs. Dilber |  |
