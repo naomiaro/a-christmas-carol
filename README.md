@@ -93,7 +93,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Joe |  |
 | Mrs. Dilber |  |
 | Mrs. Cratchit | Fiona |
-| Peter Cratchit |  |
+| Peter Cratchit | play.ht - Jack |
 | Cratchit girl #1 | ttsmp3.com - Emma |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Boy | Acapela Box - Harry |
