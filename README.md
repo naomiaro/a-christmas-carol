@@ -86,7 +86,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | --- | --- |
 | Narrator | Daniel |
 | Scrooge | Oliver |
-| Man #1 |  |
+| Man #1 | play.ht - George |
 | Man #2 |  |
 | Man #3 |  |
 | Woman #1 |  |
