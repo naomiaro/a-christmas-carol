@@ -39,7 +39,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Character | Voice |
 | --- | --- |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
-| Fred (Scrooge's Nephew) | Siri Male - normal  |
+| Fred (Scrooge's Nephew) | Siri Male - UK  |
 | Narrator | Daniel |
 | Scrooge | Oliver |
 | Gentleman #1 (donations) | play.ht - James |
@@ -76,9 +76,31 @@ https://play.ht/text-to-speech-voices/british-english/
 | Martha Cratchit | play.ht - Isla |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Tiny Tim | play.ht - Anna |
-| Fred (Scrooge's Nephew) | Siri Male - normal  |
+| Fred (Scrooge's Nephew) | Siri Male - UK |
 | Scrooge's niece | Kate |
 | Plump sister | play.ht - Libby |
+
+**Stave 5**
+
+| Character | Voice |
+| --- | --- |
+| Narrator | Daniel |
+| Scrooge | Oliver |
+| Man #1 |  |
+| Man #2 |  |
+| Man #3 |  |
+| Woman #1 |  |
+| Joe |  |
+| Mrs. Dilber |  |
+| Mrs. Cratchit | Fiona |
+| Peter Cratchit | play.ht - Jack |
+| Cratchit girl #1 | ttsmp3.com - Emma |
+| Bob Cratchet (Clerk) | ttsmp3.com - Brian |
+| Boy | Acapela Box - Harry |
+| 3-4 fellows |  |
+| Fred's Housekeeper? |  |
+| Fred (Scrooge's Nephew) | Siri Male - UK |
+
 
 ## Audiograms
 
