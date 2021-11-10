@@ -91,14 +91,14 @@ https://play.ht/text-to-speech-voices/british-english/
 | Man #3 | play.ht - Brian |
 | Woman #1 |  |
 | Joe | play.ht - Logan |
-| Mrs. Dilber |  |
+| Mrs. Dilber | play.ht - Lily |
 | Mrs. Cratchit | Fiona |
 | Peter Cratchit | play.ht - Jack |
 | Cratchit girl #1 | ttsmp3.com - Emma |
 | Bob Cratchet (Clerk) | ttsmp3.com - Brian |
 | Boy | Acapela Box - Harry |
 | 3-4 fellows |  |
-| Fred's Housekeeper? |  |
+| Girl | play.ht - Hannah |
 | Fred (Scrooge's Nephew) | Siri Male - UK |
 
 
