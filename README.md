@@ -90,7 +90,7 @@ https://play.ht/text-to-speech-voices/british-english/
 | Man #2 | play.ht - Thomas |
 | Man #3 | play.ht - Brian |
 | Woman #1 |  |
-| Joe |  |
+| Joe | play.ht - Logan |
 | Mrs. Dilber |  |
 | Mrs. Cratchit | Fiona |
 | Peter Cratchit | play.ht - Jack |
