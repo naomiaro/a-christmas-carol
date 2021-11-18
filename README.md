@@ -121,3 +121,7 @@ https://www.cstr.ed.ac.uk/projects/festival/onlinedemo.html
 
 https://twitter.com/CatchTheseWords/status/1459126621089185808
 
+https://normalize.nongnu.org/
+
+
+
