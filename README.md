@@ -49,7 +49,7 @@ https://play.ht/text-to-speech-voices/british-english/
 
 | Character | Voice |
 | --- | --- |
-| Marley | Bad News  |
+| Marley | Festival - Nick 1  |
 | Narrator | Daniel |
 | Scrooge | Oliver |
 
