@@ -49,7 +49,7 @@ https://play.ht/text-to-speech-voices/british-english/
 
 | Character | Voice |
 | --- | --- |
-| Marley | Bad News  |
+| Marley | Festival - Nick 1  |
 | Narrator | Daniel |
 | Scrooge | Oliver |
 
@@ -120,4 +120,8 @@ https://www.youtube.com/watch?v=hUkDY3ipHw0
 https://www.cstr.ed.ac.uk/projects/festival/onlinedemo.html
 
 https://twitter.com/CatchTheseWords/status/1459126621089185808
+
+https://normalize.nongnu.org/
+
+http://mp3gain.sourceforge.net/
 
